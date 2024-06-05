@@ -3,6 +3,7 @@
 <b>Prerequisite</b>
 <pre>
 Python 3.8 
+onwards
 </pre>
 <b>You can see the video here:</b>
 

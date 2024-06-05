@@ -1,4 +1,4 @@
-# Deepfake Detector
+# Deepfake Detector Without GPU
 
 <b>Prerequisite</b>
 <pre>

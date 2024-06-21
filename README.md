@@ -8,7 +8,7 @@ Python 3.8  onwards
 
 explanation is in the youtube channel video in the link below:
 
-[[The Link Youtube Video](https://www.youtube.com)](https://youtu.be/Qlihk5tIK4g?si=qaV2PcrVybQSNUQJ)
+[[The Link Youtube Video](https://youtu.be/Qlihk5tIK4g?si=qaV2PcrVybQSNUQJ)]
 
 <b>  Usage : </b>
 Kindly look the video 
